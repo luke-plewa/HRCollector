@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  BandSensorSwift
 //
-//  Created by Mark Thistle on 4/7/15.
-//  Copyright (c) 2015 New Thistle LLC. All rights reserved.
+//  Created by Luke Plewa on 5/1/15.
+//  Copyright (c) 2015 Luke Plewa. All rights reserved.
 //
 
 import UIKit

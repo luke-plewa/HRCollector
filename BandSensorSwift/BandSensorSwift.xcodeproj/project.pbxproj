@@ -14,6 +14,7 @@
 		9331C4ED1AD5001D001A4E69 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9331C4EB1AD5001D001A4E69 /* LaunchScreen.xib */; };
 		9331C5071AD50657001A4E69 /* CoreBluetooth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9331C5061AD50657001A4E69 /* CoreBluetooth.framework */; };
 		9331C5091AD5066F001A4E69 /* MicrosoftBandKit_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9331C5081AD5066F001A4E69 /* MicrosoftBandKit_iOS.framework */; };
+		A3FC7B621B0CAB8700FEB3F1 /* SRWebClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC7B611B0CAB8700FEB3F1 /* SRWebClient.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		9331C5051AD502D8001A4E69 /* BandSensorSwift-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BandSensorSwift-Bridging-Header.h"; sourceTree = "<group>"; };
 		9331C5061AD50657001A4E69 /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = System/Library/Frameworks/CoreBluetooth.framework; sourceTree = SDKROOT; };
 		9331C5081AD5066F001A4E69 /* MicrosoftBandKit_iOS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MicrosoftBandKit_iOS.framework; sourceTree = "<group>"; };
+		A3FC7B611B0CAB8700FEB3F1 /* SRWebClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SRWebClient.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				9331C4E21AD5001D001A4E69 /* AppDelegate.swift */,
 				9331C5051AD502D8001A4E69 /* BandSensorSwift-Bridging-Header.h */,
 				9331C4E41AD5001D001A4E69 /* ViewController.swift */,
+				A3FC7B611B0CAB8700FEB3F1 /* SRWebClient.swift */,
 				9331C4E61AD5001D001A4E69 /* Main.storyboard */,
 				9331C4E91AD5001D001A4E69 /* Images.xcassets */,
 				9331C4EB1AD5001D001A4E69 /* LaunchScreen.xib */,
@@ -162,6 +165,7 @@
 			files = (
 				9331C4E51AD5001D001A4E69 /* ViewController.swift in Sources */,
 				9331C4E31AD5001D001A4E69 /* AppDelegate.swift in Sources */,
+				A3FC7B621B0CAB8700FEB3F1 /* SRWebClient.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -323,6 +327,7 @@
 				9331C4FE1AD5001D001A4E69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
